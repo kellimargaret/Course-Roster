@@ -1,6 +1,31 @@
-The MIT License
+# _Course Roster_
 
-Copyright (c) 2013-2015 The AngularUI Team, Karsten Sperling
+##### _Allows user to place students in courses, 9/23/15_
+
+#### By _**Alex Costa, Sam Martinez, Kelli Margret**_
+
+## Description
+
+_An app that allows the user to create a class and add a student into said class._
+
+## Setup
+
+* _Clone repository_
+* _On MAC open terminal and insert `python -m SimpleHTTPServer` inside root folder_
+* _Open browser and go to `localhost:8000`_
+* _Enjoy!_
+
+## Technologies Used
+
+* _JavaScript_
+* _Angular.js_
+* _AngularUI Router_
+
+### Legal
+
+Copyright (c) 2015 **_Alex Costa, Kelli Margret, Sam Martinez_**
+
+This software is licensed under the MIT license.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
